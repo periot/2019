@@ -1,4 +1,4 @@
-#<a href="top"></a> Second International Workshop on Mobile and Pervasive Internet of Things (PerIoT 2019)
+#<a href="top"></a> Third International Workshop on Mobile and Pervasive Internet of Things (PerIoT 2019)
 
 ##<a href=dummy></a> (co-located with [IEEE PerCom 2019](http://www.percom.org/))
 
