@@ -67,7 +67,17 @@ Submission link: <http://edas.info/N25225>
 
 #### <a href="dummy"></a> **Technical Program Committee**
 
-TBD
+  - Reza Fathi, University of Houston
+  - Aida Ghazizadeh, Old Dominion University
+  - Raluca Diaconu, Microsoft Research Cambridge
+  - Sharif Mohammad Shahnewaz Ferdous, The College of New Jersy 
+  - Samy El-Tawab, James Madison University
+  - Gang Zhou, College of William and Marry
+  - Baris Aksanil, San Diego State University
+  - Mustafa El-Nainay, Virginia Tech
+  - Anne Ngu, Texas State University
+  - Syed Rafiul Hussain, Purdue University
+  - Ahmad Salman, James Madison University
 
 #### <a href="dummy"></a> **Publicity Chair**
 
