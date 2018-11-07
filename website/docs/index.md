@@ -25,7 +25,8 @@ This workshop (PerIoT) solicits high-quality papers presenting original research
 
 ## Important Dates
 
-Papers submission deadline: **November 10, 2018**<br>
+Papers submission deadline: **<strike>November 10, 2018</strike>
+  November 18, 2018** (<font color="red">**HARD deadline**</font>)<br>
 Author notification due: **December 22, 2018**<br>
 Camera ready deadline: **January 11, 2019 (FIRM)**<br>
 Author registration deadline: **January 11, 2019 (FIRM)**<br>
@@ -82,7 +83,7 @@ Submission link: <http://edas.info/N25225>
 #### <a href="dummy"></a> **Publicity Chair**
 
   - **Christian Krupitzer**<br/>
-    University of Mannheim
+    University of Würzburg
 
 
 ## Hotel and Venue Information
