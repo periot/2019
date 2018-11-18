@@ -2,7 +2,7 @@
 
 ##<a href=dummy></a> (co-located with [IEEE PerCom 2019](http://www.percom.org/))
 
-##<a href=dummy></a> March 11-15, 2019, Koyoto, Japan
+##<a href=dummy></a> March 11-15, 2019, Kyoto, Japan
 
 
 
@@ -26,7 +26,7 @@ This workshop (PerIoT) solicits high-quality papers presenting original research
 ## Important Dates
 
 Papers submission deadline: **<strike>November 10, 2018</strike>
-  November 18, 2018** (<font color="red">**HARD deadline**</font>)<br>
+  November 25, 2018** (<font color="red">**HARD deadline**</font>)<br>
 Author notification due: **December 22, 2018**<br>
 Camera ready deadline: **January 11, 2019 (FIRM)**<br>
 Author registration deadline: **January 11, 2019 (FIRM)**<br>
@@ -63,7 +63,7 @@ Submission link: <http://edas.info/N25225>
     Email: farahman@fiu.edu
 
   - **Puya Ghazizadeh**<br>
-    Steton Hall University, NJ<br>
+    Seton Hall University, NJ<br>
     Email: puya.ghazizadeh@shu.edu
 
 #### <a href="dummy"></a> **Technical Program Committee**
