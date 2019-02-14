@@ -2,8 +2,9 @@
 
 ##<a href=dummy></a> (co-located with [IEEE PerCom 2019](http://www.percom.org/))
 
-##<a href=dummy></a> March 11-15, 2019, Kyoto, Japan
+##<a href=dummy></a> March 11, 2019, Kyoto, Japan
 
+##<a href=dummy></a> Workshop Program is available here [[PDF](Program-PerIoT2019.pdf)]
 
 
 The Internet of Things (IoT) is a novel paradigm that is rapidly gaining ground in the scenario of modern wireless telecommunications. The IoT enables large numbers of previously unconnected devices to communicate and exchange data and deal with services that span areas from healthcare to transportation and much more, with the potential for significant benefits to people and quality of life. The IoT would also enable a range of new capabilities and services far beyond today's offerings, which will radically change the life styles of future human generation. In recent years, Internet has become increasingly pervasive. Besides allowing people to connect anytime and everywhere to achieve pervasiveness and allow mobility, the Internet is evolving into the communication medium for objects that are embedded in the real world. The coupling among mobile technology, such objects and a worldwide pervasive communication infrastructure constitutes the Mobile and Pervasive Internet of Things. The mobile and pervasive IoT enables a detailed characterization of the real physical applications, as well as a rich set of pervasive interactions with the physical world. As such, the mobile and pervasive IoT has the potential to revolutionize future pervasive applications and influence the real world entities in to achieve better quality of life for future generation of human.
@@ -23,6 +24,10 @@ This workshop (PerIoT) solicits high-quality papers presenting original research
 - IoT platforms for BigData and Data analytics on pervasive environments
 - Fault-tolerance and reliability in Pervasive IoT applications
 
+
+## Program
+[PDF](Program-PerIoT2019.pdf)
+
 ## Important Dates
 
 Papers submission deadline: **<strike>November 10, 2018</strike>
@@ -30,7 +35,7 @@ Papers submission deadline: **<strike>November 10, 2018</strike>
 Author notification due: **December 22, 2018**<br>
 Camera ready deadline: **January 11, 2019 (FIRM)**<br>
 Author registration deadline: **January 11, 2019 (FIRM)**<br>
-Workshop date: **TBD**
+Workshop date: **Monday March 11, 2019**
 
 ## Call for Papers (CFP)
 
